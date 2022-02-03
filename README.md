@@ -1,9 +1,13 @@
-### 👋 Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) looking for an opportunity to start my new career!
+### 👋 Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) looking for an entry-level position and an opportunity to start my new career!
 
 [![Linkedin: jenny-borglin-12421920](https://img.shields.io/badge/-Jenny%20Borglin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenny-borglin-12421920/)](https://www.linkedin.com/in/jenny-borglin-12421920/)
 
 
-### Experienced and self-motivated former marketing coordinator with 15 years of 
+### Experienced and self-motivated former marketing coordinator with 15 years of ⚡️marketing, ⚡️⚡️ copy,
+⚡️ communication and ⚡️design experience, currently changing career into tech. I'm eager to learn and develop new skills!
+
+
+Experienced and self-motivated former marketing coordinator with 15 years of 
 ⚡️  Marketing
 
 ⚡️ Communication
@@ -18,7 +22,7 @@
 
 ⚡️ Graphic design 
 
-### experience about to change my career.
+### experience about to change my career. I'm eager to learn and develop new skills!
 
 <br />
 
