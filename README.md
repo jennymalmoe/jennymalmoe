@@ -2,12 +2,13 @@
 
 [![Linkedin: jenny-borglin-12421920](https://img.shields.io/badge/-Jenny%20Borglin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenny-borglin-12421920/)](https://www.linkedin.com/in/jenny-borglin-12421920/)
 
-Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for design, front end development, copy and UX/UI.
+Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for front end development, UX, UI and design. Currently working at IBM CIC Sweden as an IT-Specialist. 
 
-Experienced and self-motivated former digital marketing coordinator with 15 years of digital communication, copy,
-UX/UI, traffic and design experience, now at IBM CIC Sweden as an IT-Specialist. 
+### Skills:
+HTML, CSS, JavaScript, Python, Git Version Control, UX, UI, Information Architecture, Visual Communication, Storytelling, Wireframing, Mockups, User Flows, Responsive Design, Agile thinking, Copy.
 
-<br />
+### Interests:
+Front End Development UX, UI, Design Theory, Coding.
 
 ### Languages and Tools I use:
 
