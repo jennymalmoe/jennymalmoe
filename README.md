@@ -1,13 +1,11 @@
-### 👋 Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) looking for an entry-level position and an opportunity to start my new career!
+### 👋 FULL STACK DEVELOPMENT GRADUATE WITH 15 YEARS OF MARKETING, COMMUNICATION, USER INTERFACE AND DESIGN EXPERIENCE WORKING AT IBM SWEDEN.
 
 [![Linkedin: jenny-borglin-12421920](https://img.shields.io/badge/-Jenny%20Borglin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenny-borglin-12421920/)](https://www.linkedin.com/in/jenny-borglin-12421920/)
 
-Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for design, front end development, copywriting and UX/UI.
-
-⚡️
+Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for design, front end development, copy and UX/UI.
 
 Experienced and self-motivated former digital marketing coordinator with 15 years of digital communication, copy,
-UX/UI, traffic and design experience, now with more knowledge in tech!
+UX/UI, traffic and design experience, now at IBM CIC Sweden as an IT-Specialist. 
 
 <br />
 
