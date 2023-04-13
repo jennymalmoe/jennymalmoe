@@ -5,7 +5,7 @@
 Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for front end development, UX, UI and design. Currently working at IBM CIC Sweden as an IT-Specialist. 
 
 ### Skills:
-HTML, CSS, JavaScript, Python, Git Version Control, UX, UI, Information Architecture, Visual Communication, Storytelling, Wireframing, Mockups, User Flows, Responsive Design, Agile thinking, Copy.
+HTML, CSS, JavaScript, Python, Git Version Control, UX, UI, Information Architecture, Visual Communication, Storytelling, Wireframing, Mockups, User Flows, Responsive Design, Agile thinking, Copy, Project Management.
 
 ### Interests:
 Front End Development UX, UI, Design Theory, Coding.
