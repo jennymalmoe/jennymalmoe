@@ -1,14 +1,9 @@
-### 👋 SOFTWARE ENGINEER WITH A LOVE FOR WEB DESIGN WITH 15 YEARS OF MARKETING, COMMUNICATION, USER INTERFACE AND DESIGN EXPERIENCE WORKING AT IBM SWEDEN.
+### 👋 SOFTWARE ENGINEER WITH A LOVE FOR WEB DESIGN WITH 17 YEARS OF MARKETING, COMMUNICATION, USER INTERFACE AND DESIGN EXPERIENCE WORKING AT IBM SWEDEN.
 
 [![Linkedin: jenny-borglin-12421920](https://img.shields.io/badge/-Jenny%20Borglin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jenny-borglin-12421920/)](https://www.linkedin.com/in/jenny-borglin-12421920/)
 
-Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for front end development, UX, UI and design. 
+Full Stack Software Development graduate at Code Institute, Ireland (University Credit-Rated Bootcamp) with a passion for front end development, UX, UI, communication, writing and design. 
 
-### Skills:
-HTML, CSS, JavaScript, Python, Git Version Control, UX, UI, Information Architecture, Visual Communication, Storytelling, Wireframing, Mockups, User Flows, Responsive Design, Agile thinking, Copy, Project Management.
-
-### Interests:
-Front End Development UX, UI, Design Theory, Coding.
 
 ### Languages and Tools I use:
 
